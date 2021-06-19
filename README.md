@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">, I'm Parth Sharma</h1>
 <h3 align="left">Web Developer | Mobile Application | Blockchain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthhsharma&theme=black" alt="parthhsharma" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthhsharma&theme=black" alt="parthhsharma" /></a> </p> -->
 
 - 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering**
 
@@ -14,6 +14,10 @@
 - 💬 Ask me about **Blockchain**
 
 - 📫 How to reach me **sharma.parthh0001@gmail.com**
+
+- 🙋🏻‍♂️ My Profile on: [**LinkedIn**](https://www.linkedin.com/in/parthhsharma/)
+
+- 📜 My Resume: [**Parth Sharma Resume**](https://drive.google.com/file/d/1qL1RlWkBnoxJwXTLR-V5v5iaDiGcT9zm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
