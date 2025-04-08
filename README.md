@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthhsharma&theme=black" alt="parthhsharma" /></a> </p> -->
 
-- 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering**
+<!--- 🎓 I’m a software engineer at **Samsung Research Institute**
 
 - 💻 I’m currently learning **Flutter Framework**
 
@@ -17,7 +17,7 @@
 
 - 🙋🏻‍♂️ My Profile on: [**LinkedIn**](https://www.linkedin.com/in/parthhsharma/)
 
-- 📜 My Resume: [**Parth Sharma Resume**](https://drive.google.com/file/d/1qL1RlWkBnoxJwXTLR-V5v5iaDiGcT9zm/view?usp=sharing)
+- 📜 My Resume: [**Parth Sharma Resume**](https://drive.google.com/file/d/1qL1RlWkBnoxJwXTLR-V5v5iaDiGcT9zm/view?usp=sharing)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
