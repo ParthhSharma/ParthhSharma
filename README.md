@@ -132,11 +132,11 @@ so I can spend more time on the problems worth thinking about.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParthhSharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthhSharma&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthhSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthhSharma&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ParthhSharma&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![Streak](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthhSharma&theme=tokyonight)
 
 </div>
 
