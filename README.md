@@ -34,32 +34,38 @@
 ## `$ whoami`
 
 ```java
-@Component
-public class Developer {
-
-    private final String name     = "Parth Sharma";
-    private final String role     = "Software Engineer";
-    private final String location = "India 🇮🇳";
-
-    private final List<String> currentWork = List.of(
-        "Java & Spring Boot backends",
-        "Selenium test automation frameworks",
-        "AI-driven automation pipelines"
-    );
-
-    private final List<String> learning = List.of(
-        "AI Agents & Agentic workflows",
-        "Generative AI & LLMs",
-        "Cloud-native architectures"
-    );
-
-    private final String superpower = "Automating things that should NEVER be done twice manually ⚡";
-
-    public String getBio() {
-        return String.format("Building at the intersection of %s, %s, and %s",
-            "robust engineering", "test automation", "artificial intelligence");
-    }
-}
+╔══════════════════════════════════════════════════════════════╗
+║                    Developer.java                            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  @Profile(role = "Software Engineer", location = "India 🇮🇳")║
+║  public class Developer {                                    ║
+║                                                              ║
+║    String name     = "Parth Sharma";                         ║
+║    String focus    = "Java · Spring Boot · AI Automation";   ║
+║                                                              ║
+║    String[] building = {                                     ║
+║      "🔭 Java & Spring Boot backends",                       ║
+║      "🤖 Selenium automation frameworks",                    ║
+║      "🧠 AI-driven automation pipelines"                     ║
+║    };                                                        ║
+║                                                              ║
+║    String[] learning = {                                     ║
+║      "🌱 AI Agents & Agentic workflows",                     ║
+║      "☁️  Cloud-native architectures",                       ║
+║      "✨ Generative AI & LLMs"                               ║
+║    };                                                        ║
+║                                                              ║
+║    @Override                                                 ║
+║    public String superpower() {                              ║
+║      return "⚡ Automate anything done more than once";      ║
+║    }                                                         ║
+║  }                                                           ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  > javac Developer.java ... ✅ Build successful              ║
+║  > java Developer       ... 🚀 Running in production         ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
