@@ -1,44 +1,155 @@
-<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">, I'm Parth Sharma</h1>
-<h3 align="left">Web Developer | Mobile Application | Blockchain</h3>
+<div align="center">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthhsharma&theme=black" alt="parthhsharma" /></a> </p> -->
+```
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+```
 
-<!--- 🎓 I’m a software engineer at **Samsung Research Institute**
+### *Engineer by day. Automator by instinct. AI tinkerer by obsession.*
 
-- 💻 I’m currently learning **Flutter Framework**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Engineer;Selenium+Automation+Architect;AI+%2F+LLM+Explorer;Building+things+that+automate+themselves)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate on **my Web Projects**
+</div>
 
-- 🤝 I’m looking for help with **Back-end Frameworks**
+---
 
-- 💬 Ask me about **Blockchain**
+## `$ whoami`
 
-- 📫 How to reach me **sharma.parthh0001@gmail.com**
+```java
+@Component
+public class Developer {
 
-- 🙋🏻‍♂️ My Profile on: [**LinkedIn**](https://www.linkedin.com/in/parthhsharma/)
+    private final String name     = "Your Name";
+    private final String role     = "Software Engineer";
+    private final String location = "Gurugram, India 🇮🇳";
 
-- 📜 My Resume: [**Parth Sharma Resume**](https://drive.google.com/file/d/1qL1RlWkBnoxJwXTLR-V5v5iaDiGcT9zm/view?usp=sharing)-->
+    private final List<String> currentWork = List.of(
+        "Java & Spring Boot backends",
+        "Selenium test automation frameworks",
+        "AI-driven automation pipelines"
+    );
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/parthsh19991990" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="parthsh19991990" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parthhsharma" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="parthhsharma" height="30" width="40" /></a>
-<a href="https://fb.com/paarthhsharma" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" alt="paarthhsharma" height="30" width="40" /></a>
-<a href="https://instagram.com/paaarrrttthhh" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="paaarrrttthhh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/zziggzz" target="blank"><img align="center" src="https://github.com/saksham101/MyProgs/blob/master/codechef.svg" alt="zziggzz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sharma_parthh001" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="sharma_parthh001" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/parthh" target="blank"><img align="center" src="https://1.bp.blogspot.com/-9CjsLRLqcT0/Wngzf_mmkiI/AAAAAAAABP4/mdX4LTooaEsvG7SCDQOS9wbUEpWrQ8hCACPcBGAYYCw/s1600/codeforce.png" alt="parthh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parthhsharma" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="parthhsharma" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sharma.parthh0001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/330px-HackerEarth_logo.png" alt="@sharma.parthh0001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sharmaparthh0001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" alt="sharmaparthh0001" height="30" width="40" /></a>
-<a href="https://discord.gg/zziggzz#1191" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="zziggzz#1191" height="30" width="40" /></a>
-</p>
+    private final List<String> learning = List.of(
+        "AI Agents & Agentic workflows",
+        "Generative AI & LLMs",
+        "Cloud-native architectures"
+    );
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="express" width="40" height="40"/> </a> </p>
+    private final String superpower = "Automating things that should NEVER be done twice manually ⚡";
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthhsharma&show_icons=true&locale=en&layout=compact&theme=gotham" alt="parthhsharma" /></p>
+    public String getBio() {
+        return String.format("Building at the intersection of %s, %s, and %s",
+            "robust engineering", "test automation", "artificial intelligence");
+    }
+}
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthhsharma&show_icons=true&locale=en&theme=gotham" alt="parthhsharma" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthhsharma&theme=gotham" alt="parthhsharma" /></p>
+## `$ cat skills.json`
+
+<div align="center">
+
+### 🧠 Core Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### 🤖 Automation & Testing
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
+### 🧬 AI / ML Ecosystem
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ☁️ Infrastructure & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## `$ git log --oneline --graph`
+
+<div align="center">
+
+| | What | Details |
+|---|---|---|
+| 🔭 | **Working on** | Java · Spring Boot · Selenium · AI-driven automation |
+| 👯 | **Collaborating on** | Open-source Java, AI & developer productivity tools |
+| 🤝 | **Seeking help with** | LLM apps · RAG systems · Scalable system design |
+| 🌱 | **Currently learning** | AI Agents · Generative AI · Cloud technologies |
+| 💬 | **Ask me about** | Java · Spring Boot · Selenium · Git · Chrome Extensions · AI |
+| ⚡ | **Fun fact** | *I automate things that should never be done twice manually* |
+
+</div>
+
+---
+
+## `$ cat philosophy.md`
+
+> *"If you're doing it more than once, it's a bug — not a workflow."*
+
+I live at the crossroads of **engineering precision** and **AI curiosity**.  
+My toolkit: battle-tested **Java** for the backbone, **Selenium** to tame browsers,  
+**Spring Boot** to ship fast, and **LLMs** to push what's possible.
+
+Currently obsessed with: building **agentic systems** that reason, act, and iterate —  
+so I can spend more time on the problems worth thinking about.
+
+---
+
+## `$ ./connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthhsharma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.sh.official@gmail.com)
+</div>
+
+---
+
+## `$ htop` — GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParthhSharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthhSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ParthhSharma&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/ParthhSharma/ParthhSharma/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+*`[status: always building something new]`*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ParthhSharma&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
