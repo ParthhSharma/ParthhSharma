@@ -38,7 +38,7 @@
 ║                    Developer.java                            ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  @Profile(role = "Software Engineer", location = "India 🇮🇳")║
+║  @Profile(role = "Software Engineer", location = "India 🇮🇳") ║
 ║  public class Developer {                                    ║
 ║                                                              ║
 ║    String name     = "Parth Sharma";                         ║
@@ -58,7 +58,7 @@
 ║                                                              ║
 ║    @Override                                                 ║
 ║    public String superpower() {                              ║
-║      return "⚡ Automate anything done more than once";      ║
+║      return "⚡ Automate anything done more than once";       ║
 ║    }                                                         ║
 ║  }                                                           ║
 ║                                                              ║
